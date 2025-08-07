@@ -2444,3 +2444,28 @@ lijit.com, 411121, RESELLER, fafdf38b16bf6b2b #SOVRN
 fivecdm.com,94486352,DIRECT
 rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
 pubmatic.com, 159856, DIRECT, 5d62403b186f2ace
+cas.ai, b2659234, DIRECT
+pubmatic.com, 163753, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 108033672, RESELLER
+xandr.com, 17724, RESELLER
+themediagrid.com, MRPYL1, RESELLER, 35d5010d7789b49d
+eplanning.net,ecee0b96300f040e,RESELLER,c1ba615865ed87b2
+sabio.us, 100185, RESELLER, 96ed93aaa9795702
+improvedigital.com , 1556, RESELLER
+video.unrulymedia.com, 703273072, RESELLER
+appnexus.com,15941,RESELLER
+Media.net, 8CUUQ286L, RESELLER
+pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19396, Reseller, 0bfd66d529a55807
+video.unrulymedia.com, 3611299104, RESELLER
+sharethrough.com, koRtppYA, RESELLER, d53b998a7bd4ecd2
+loopme.com, 11498, RESELLER, 6c8d5f95897a5a3b
+oko.uk,a4eb11dd-9bc5-4d77-9877-71f69dcfc08f,RESELLER,b3511ffcafb23a32
+apester.com, 49071, RESELLER
+xandr.com, 13955, RESELLER
+triplelift.com, 11457, RESELLER, 6c33edb13117fd86
+openx.com, 539253360, RESELLER, 6a698e2ec38604c6
+themediagrid.com, 9FRCA5, DIRECT, 35d5010d7789b49d
+33across.com, 001Pg00001BT7yYIAT, RESELLER, bbea06d9c4d2853c
+pubmatic.com, 163066, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 27136, RESELLER, 0bfd66d529a55807

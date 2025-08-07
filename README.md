@@ -1,2 +1,2 @@
 [app-ads.txt
-](https://github.com/sango-tech/ads-txt-hosting)
+](https://sango-tech.github.io/ads-txt-hosting/app-ads.txt)

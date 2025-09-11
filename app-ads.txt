@@ -1054,7 +1054,6 @@ supply.colossusssp.com, 821, DIRECT, 6c5b49d96ec1b458
 xandr.com, 10490, RESELLER
 yieldmo.com, 3078438591206989879, RESELLER
 pubeasy.io, 110013, RESELLER
-bigo.sg, 1115347, DIRECT
 bigo.sg, 1114228, DIRECT
 google.com, pub-3846271310706723, DIRECT, f08c47fec0942fa0
 google.com, pub-3846271310706723, RESELLER, f08c47fec0942fa0

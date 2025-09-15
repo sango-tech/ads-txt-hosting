@@ -1175,7 +1175,7 @@ bematterfull.com, 111399861, RESELLER
 lemmatechnologies.com, 89, RESELLER, 7829010c5bebd1fb
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 openx.com, 539214772, RESELLER, 6a698e2ec38604c6
-inmobi.com, 7a2abc19e5d84bedb55f9bfe9a75bd03, RESELLER, 83e75a7ae333ca9d
+inmobi.com, 7a2abc19e5d84bedb55f9bfe9a75bd03, DIRECT, 83e75a7ae333ca9d
 conversantmedia.com, 40881, RESELLER, 03113cd04947736d
 pubnative.net, 1006951, RESELLER, d641df8625486a7b
 app-stock.com, 315417, RESELLER

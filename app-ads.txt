@@ -1,4 +1,4 @@
-OWNERDOMAIN=sango-tech.com
+OWNERDOMAIN=sango-tech.app
 alaska-gaming.com, 19876, RESELLER
 triplelift.com,8784, RESELLER  , 6c33edb13117fd86
 trustedstack.com, TSCLS3659, RESELLER
